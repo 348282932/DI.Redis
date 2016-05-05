@@ -1,0 +1,8 @@
+E:\Example\DI.Redis\DI.Redis\Pelway.Redis\bin\Release\Pelway.Redis.dll
+E:\Example\DI.Redis\DI.Redis\Pelway.Redis\bin\Release\Pelway.Redis.pdb
+E:\Example\DI.Redis\DI.Redis\Pelway.Redis\bin\Release\StackExchange.Redis.dll
+E:\Example\DI.Redis\DI.Redis\Pelway.Redis\bin\Release\StackExchange.Redis.pdb
+E:\Example\DI.Redis\DI.Redis\Pelway.Redis\bin\Release\StackExchange.Redis.xml
+E:\Example\DI.Redis\DI.Redis\Pelway.Redis\obj\Release\DI.Redis.csprojResolveAssemblyReference.cache
+E:\Example\DI.Redis\DI.Redis\Pelway.Redis\obj\Release\Pelway.Redis.dll
+E:\Example\DI.Redis\DI.Redis\Pelway.Redis\obj\Release\Pelway.Redis.pdb

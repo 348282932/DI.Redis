@@ -1,0 +1,8 @@
+E:\PelwayGitCode\SplitModule\Reids\Pelway.Redis\Pelway.Redis\bin\Release\Pelway.Redis.dll
+E:\PelwayGitCode\SplitModule\Reids\Pelway.Redis\Pelway.Redis\bin\Release\Pelway.Redis.pdb
+E:\PelwayGitCode\SplitModule\Reids\Pelway.Redis\Pelway.Redis\bin\Release\StackExchange.Redis.dll
+E:\PelwayGitCode\SplitModule\Reids\Pelway.Redis\Pelway.Redis\bin\Release\StackExchange.Redis.pdb
+E:\PelwayGitCode\SplitModule\Reids\Pelway.Redis\Pelway.Redis\bin\Release\StackExchange.Redis.xml
+E:\PelwayGitCode\SplitModule\Reids\Pelway.Redis\Pelway.Redis\obj\Release\Pelway.Redis.csprojResolveAssemblyReference.cache
+E:\PelwayGitCode\SplitModule\Reids\Pelway.Redis\Pelway.Redis\obj\Release\Pelway.Redis.dll
+E:\PelwayGitCode\SplitModule\Reids\Pelway.Redis\Pelway.Redis\obj\Release\Pelway.Redis.pdb
